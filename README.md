@@ -2,10 +2,10 @@
 
 ## This is what the calculator does:
 
-*add
-*subtract
-*multiply
-*divide
+* add
+* subtract
+* multiply
+* divide
 * **square root**
 * *power*
 
