@@ -2,11 +2,11 @@
 
 ## This is what the calculator does:
 
-* add
-* subtract
-* multiply
-* divide
-* **square root**
-* *power*
+* Add
+* Subtract
+* Multiply
+* Divide
+* Square root
+* Power
 
->I love calculator!
+
